@@ -13,6 +13,11 @@ form{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 50%;
     background: linear-gradient(#1a1a2e);
+}
+
+#calculator-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
